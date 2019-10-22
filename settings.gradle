@@ -1,0 +1,2 @@
+include ':WebPageParser'
+rootProject.name='WebPageParser'
